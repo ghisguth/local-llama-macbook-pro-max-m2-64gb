@@ -1,0 +1,14 @@
+---
+---
+@import "{{ site.theme }}";
+
+header {
+  display: none !important;
+}
+
+section {
+  width: 100% !important;
+  float: none !important;
+  max-width: 800px;
+  margin: 0 auto;
+}
