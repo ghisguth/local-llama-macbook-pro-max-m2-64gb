@@ -1,0 +1,15 @@
+---
+---
+$content-width: 1000px;
+
+@import "minima";
+
+/* Hide top header bar and site title */
+.site-header {
+  display: none !important;
+}
+
+/* Optional: Hide footer for a pure single-page look */
+.site-footer {
+  display: none !important;
+}
